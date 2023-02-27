@@ -1,0 +1,40 @@
+* {
+  margin: 0px;
+}
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.balance-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.transaction-hist-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.transaction-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.history-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.unordered_list {
+  list-style-type: none;
+}
